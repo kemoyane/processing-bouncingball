@@ -1,4 +1,7 @@
 # processing-bouncingball
 
-## Environment
-Processing 3.5.4  
+## Description
+画面端でバウンドするボール  
+
+## Requirement
+* Processing ver3.5.4
